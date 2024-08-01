@@ -3,7 +3,7 @@
     <img src="./assets/winner.webp" height="300px">
   </a>
 </p>
-<div style="text-align: center;">
+<div align='center'>
   <a href="https://developer.mozilla.org/es/docs/Web/HTML">
     <img src="https://img.shields.io/badge/-HTML5-F06A32?labelColor=gray&style=for-the-badge&logo=html5&logoColor=F06A32&logoWidth=50" alt="HTML5">
   </a>
@@ -36,10 +36,10 @@ Mira una demostración del proyecto [aqui](https://adivinaelnumerojs.netlify.app
 
 ## Consigna 
 
-```
+`
 Crea una web con bootstrap y js, que contenga un botón comenzar el juego, en ese momento se crea un número aleatorio que el usuario deberá adivinar, la interfaz del usuario debe tener además un input para ingresar un número y un botón enviar, al presionar el botón enviar mostrar en un alert si el usuario adivino o no el número mágico, si no lo adivino indicarle con un alert si el número que ingreso es mayor o menor al número mágico.
 Cuando el usuario adivine el número mostrar un mensaje indicando al usuario que adivino el número.
-```
+`
 </div>
 
 <div align="center">
